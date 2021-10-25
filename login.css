@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    color: aliceblue;
+    background-image: linear-gradient(to right,pink,rgb(253, 41, 207),rgb(218, 0, 163),rgb(155, 8, 168),rgb(109, 5, 179));
+}
+
+#login_h1{
+    color: aliceblue;
+    font-size: 50px;
+}
+input{
+    width: 500px;
+    height: 35px;
+    background-image: linear-gradient(rgb(255, 145, 0),rgb(252, 255, 89));
+    font-weight: bold;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+}
+#login_btn{
+    width: 200px;
+    height: 35px;
+    background-image: linear-gradient(to top left,rgb(112, 223, 1), rgb(4, 167, 4),rgb(0, 121, 0));
+}
+h2{
+    text-decoration: underline;
+}
